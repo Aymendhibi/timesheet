@@ -20,7 +20,7 @@ public class User implements Serializable {
 
 // entitie user
 	private static final long serialVersionUID = 1L;
-
+//update
 	@Id
 	@GeneratedValue (strategy = GenerationType.IDENTITY)
 	private Long id;   
